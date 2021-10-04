@@ -1,0 +1,16 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../style.scss",
+        "../base/_colores.scss",
+        "../base/_listas.scss",
+        "../base/_condiciones.scss",
+        "../base/_operaciones.scss",
+        "../base/_maps.scss",
+        "../base/_extends.scss",
+        "../base/_mixins.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
